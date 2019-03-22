@@ -1,26 +1,5 @@
 # tableau-ui-library
 
-## Project setup
-```
-npm install
-```
+Use the Tableau UI Library in VueJS. The UI Library is a React based component library but by using 'Vuera' you can use React in Vuejs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Clone this repo and `npm run start` to see a button and a spinner in the App.vue file.
